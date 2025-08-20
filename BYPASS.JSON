@@ -1,1 +1,22 @@
-
+{
+  "users": [
+    {
+      "username": "shanto",
+      "password": "1",
+      "expiry": "2055-12-31",
+      "ban": false,
+      "hwid": "fc10d595-a846-4b47-b899-c77c1e1c3dfe",
+      "on1Device": true,
+      "lastLogin": ""
+    },
+    {
+      "username": "admin",
+      "password": "admin123",
+      "expiry": "2026-01-01",
+      "ban": false,
+      "hwid": "",
+      "on1Device": false,
+      "lastLogin": ""
+    }
+  ]
+}
